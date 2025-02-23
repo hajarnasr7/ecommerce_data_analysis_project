@@ -47,3 +47,5 @@ In this project, I used the **Olist database**, which belongs to a Brazilian e-c
   - How customers reached our website
   - The industry they belong to
   - Whether they are a small or large business
+
+dataset link: https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-olist-as-an-sqlite-database
