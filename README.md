@@ -25,12 +25,9 @@ In this project, I used the **Olist database**, which belongs to a Brazilian e-c
 - **Payment Methods:**
   - **Credit Cards:** The most commonly used payment method, so ensuring smooth and fast transactions is essential.
   - **Installment Payments:** Used by **51%** of customers. This suggests the need to increase promotional campaigns for installment payments and offer more flexible payment plans.
-- **Sales Trends:**
-  - Sales peak in **September and October**, which means the inventory must be sufficient to handle the high order volume during these months.
 
 ## Dashboard KPIs
 
-- Average revenue per order
 - Delayed order percentage
 - Average delivery date
 - Canceled order percentage
@@ -38,11 +35,9 @@ In this project, I used the **Olist database**, which belongs to a Brazilian e-c
 - Online delivery time for rating 1
 - Deal wristband compilation rate (successful deal percentage)
 
-## Dashboard Insights
+## Another Major Insights
 
-- Average sales over the years and months
 - Top-selling and least-selling products
-- Top-performing sellers and their locations (states)
 - Customer segmentation for successful marketing campaigns, including:
   - How customers reached our website
   - The industry they belong to
