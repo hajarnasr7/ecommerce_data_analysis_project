@@ -33,14 +33,6 @@ In this project, I used the **Olist database**, which belongs to a Brazilian e-c
 - Canceled order percentage
 - Installment payment rate
 - Online delivery time for rating 1
-- Deal wristband compilation rate (successful deal percentage)
 
-## Another Major Insights
-
-- Top-selling and least-selling products
-- Customer segmentation for successful marketing campaigns, including:
-  - How customers reached our website
-  - The industry they belong to
-  - Whether they are a small or large business
 
 dataset link: https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-olist-as-an-sqlite-database
